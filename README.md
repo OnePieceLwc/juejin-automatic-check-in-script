@@ -17,21 +17,24 @@ pip install requests
 
 在请求 URL 找到aid，uuid，spider，msToken，a_bogus
 ![image](https://github.com/user-attachments/assets/7836d9dd-0587-4167-b9c2-17198a0b61f1)
-
+```
 aid = ""
 uuid = ""
 spider = ""
 a_bogus = ''
-
+```
+```
 msToken  获取后需要url解码，才可以使用
   解密网址1:https://www.toolhelper.cn/EncodeDecode/Url
   解密网址2:https://www.bejson.com/enc/urlencode/index.html#google%20vignette
-
+```
 ![image](https://github.com/user-attachments/assets/8dc61afb-e381-4635-9b08-d45d793e007e)
-
+```
 msToken = ''
-
+```
 获取cookie和User-Agent
 ![image](https://github.com/user-attachments/assets/9defea05-992b-4b84-91e6-378d301bf4d1)
+```
 cookie =""
 'User-Agent': ''
+```
